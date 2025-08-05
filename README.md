@@ -13,3 +13,32 @@ This project simulates the core responsibilities of a **Market Research Analyst*
 - Generate strategic insights and actionable recommendations for product and market expansion
 
 ## 🧩 Project Structure
+
+```bash
+
+vesper_dairy_market_analysis/
+│
+├── 01_price_trend_analysis/
+│ ├── 01_data_cleaning.ipynb # Cleaning and preparing dairy price data
+│ └── 01_price_trend.ipynb # Price trend visualizations and seasonality analysis
+│
+├── 02_supply_demand_model/
+│ └── 02_supply_demand_analysis.ipynb # Modeling supply-demand dynamics
+│
+├── 03_price_forecasting/
+│ └── 03_forecasting_model.ipynb # Time-series forecasting using ARIMA and Prophet
+│
+├── 04_dashboard/
+│ └── dairy_market_dashboard.twbx # Interactive Tableau dashboard
+│
+├── 05_insight_report/
+│ ├── final_insight_report.pdf # Final business report with insights
+│ ├── market_opportunity_score.xlsx # Scoring matrix for new market attractiveness
+│ └── new_market_entry_risk.rmd # R Markdown report for entry risk analysis
+│
+├── data/
+│ ├── dairy_prices.csv # Historical dairy prices by country (monthly)
+│ ├── production_import_export.csv # Production, import, export volumes
+│ └── additional_sources.xlsx # Supplementary datasets and sources
+│
+└── README.md

@@ -42,3 +42,28 @@ vesper_dairy_market_analysis/
 │ └── additional_sources.xlsx # Supplementary datasets and sources
 │
 └── README.md
+
+
+
+## 🔧 Tech Stack
+
+- **Python:** Data cleaning, trend analysis, forecasting (pandas, matplotlib, statsmodels, Prophet)
+- **R:** Risk modeling, report generation (R Markdown)
+- **Excel:** Market scoring, comparative analysis
+- **Tableau:** Interactive dashboards and stakeholder presentation
+- **Jupyter Notebooks:** Reproducible and exploratory analysis
+
+## 📌 Use Case Alignment (Vesper Role)
+
+This project covers the following key responsibilities from the Vesper Market Research Analyst role:
+
+- Market trend identification  
+- Supply-demand and price modeling  
+- New market feasibility analysis  
+- Competitive and customer insight gathering  
+- Strategic recommendation generation  
+
+## 📬 Contact
+
+Created by [Berkay Korcum](https://github.com/0BerkayK) – for portfolio and learning purposes.
+

@@ -26,7 +26,7 @@ vesper_dairy_market_analysis/
 │ └── 02_supply_demand_analysis.ipynb # Modeling supply-demand dynamics
 │
 ├── 03_price_forecasting/
-│ └── 03_forecasting_model.ipynb # Time-series forecasting using ARIMA and Prophet
+│ └── 03_forecasting_model.ipynb # Time-series forecasting using Prophet
 │
 ├── 04_dashboard/
 │ └── dairy_market_dashboard.twbx # Interactive Tableau dashboard

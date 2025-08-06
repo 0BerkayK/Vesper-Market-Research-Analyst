@@ -38,6 +38,7 @@ vesper_dairy_market_analysis/
 ├── data/
 │ ├── dairy_prices.csv # Historical dairy prices by country (monthly)
 │ ├── production_import_export.csv # Production, import, export volumes
+│ ├── forecast_milk_prices.csv # Prediction model with Prophet exports
 │ └── additional_sources.xlsx # Supplementary datasets and sources
 │
 └── README.md

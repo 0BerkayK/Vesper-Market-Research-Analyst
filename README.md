@@ -34,8 +34,7 @@ vesper_dairy_market_analysis/
 ├── 05_insight_report/
 │ ├── final_insight_report.pdf # Final business report with insights
 │ ├── market_opportunity_score.xlsx # Scoring matrix for new market attractiveness
-│ └── new_market_entry_risk.rmd # R Markdown report for entry risk analysis
-│
+│ 
 ├── data/
 │ ├── dairy_prices.csv # Historical dairy prices by country (monthly)
 │ ├── production_import_export.csv # Production, import, export volumes
